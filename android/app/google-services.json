@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323366878871",
+    "project_id": "todo-notes-app-debe3",
+    "storage_bucket": "todo-notes-app-debe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323366878871:android:d3675a30341bf46284b3d2",
+        "android_client_info": {
+          "package_name": "com.example.todooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfM-7E89mlekeT5vzCZIuF2oKbzoS87s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
