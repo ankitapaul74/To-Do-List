@@ -1,16 +1,47 @@
-# todooo
 
-A new Flutter project.
+# ToNote
 
-## Getting Started
+## Overview
+ToNote is a dynamic,user friendly app that combines TO-DO and notes feature in one place.
+## Features
 
-This project is a starting point for a Flutter application.
+Unified Task & Note Management: Switch seamlessly between TODOs and Notes.
 
-A few resources to get you started if this is your first Flutter project:
+Create, Edit, & Delete: Effortlessly manage tasks and notes with full CRUD support.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Real-Time Sync: Firebase integration for data sync across devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cloud Storage: Securely store tasks and notes with Cloud Firestore.
+
+Customizable Notes: Add formatted text for organized notes.
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/li2.jpg
+)
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/image1.png
+)
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/image2.png
+)
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/image3.png
+)
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/image4.png
+)
+
+![App Screenshot](https://raw.githubusercontent.com/ankitapaul74/To-Do-List/master/image5.png
+)
+
+
+## Tech Stack Used
+•Flutter: Used for a seamless, cross-platform experience on Android and iOS.
+
+•Firebase: Powers the backend, providing secure authentication and reliable database services.
+
+•Cloud Firestore: Ensures real-time synchronization, so your notes and tasks are always up-to-date.
+## Use this application
+
+• Clone this repo and build in android studio
